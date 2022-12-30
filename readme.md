@@ -1,3 +1,11 @@
+[github 仓库地址](https://github.com/wangqiqi/opencv-python-tutorial)
+
+[gitee 仓库地址](https://gitee.com/cvPlayers/opencv-python-tutorial)
+
+## 教程地址
+
+### 第一章 GUI Features
+
 [【OpenCV-Python】教程：1-1 图像读取显示保存_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/127825379)
 
 [【OpenCV-Python】教程：1-2 视频读取显示保存_黄金旺铺的博客-CSDN博客_cap_prop_orientation_meta](https://blog.csdn.net/zhoujinwang/article/details/127827460)
@@ -8,11 +16,15 @@
 
 [【OpenCV-Python】教程：1-5 TrackerBar_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/127839044)
 
+### 第二章 Core Operations
+
 [【OpenCV-Python】教程：2-1 图像基础操作_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/127856499)
 
 [【OpenCV-Python】教程：2-2 图像算术运算_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/127895792)
 
 [【OpenCV-Python】教程：2-3 性能测量与提升_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/127901607)
+
+### 第三章 图像处理
 
 [【OpenCV-Python】教程：3-1 颜色空间转换与抠图_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/127908266)
 
@@ -20,7 +32,7 @@
 
 [【OpenCV-Python】教程：3-3 阈值化 threshold,Otsu_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/127931392)
 
-[【OpenCV-Python】教程：3-4 平滑去噪，高斯平滑，均值滤波，中值滤波_黄金旺铺的博客-CSDN博客_python均值滤波去噪](https://blog.csdn.net/zhoujinwang/article/details/127935511?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167237137016800180688382%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=167237137016800180688382&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-1-127935511-null-null.blog_rank_default&utm_term=3-4&spm=1018.2226.3001.4450)
+[【OpenCV-Python】教程：3-4 平滑去噪，高斯平滑，均值滤波，中值滤波_黄金旺铺的博客-CSDN博客_python均值滤波去噪](https://blog.csdn.net/zhoujinwang/article/details/127935511)
 
 [【OpenCV-Python】教程：3-5 形态学操作，腐蚀、膨胀、开运算、闭运算、顶帽、黑帽、形态学梯度_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/127938424)
 
@@ -62,6 +74,8 @@
 
 [【OpenCV-Python】教程：3-16 利用Grabcut交互式前景提取_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128171264)
 
+### 第四章 特征检测
+
 [【OpenCV-Python】教程：4-1 理解特征_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128193857)
 
 [【OpenCV-Python】教程：4-2 Harris角点检测_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128195444)
@@ -82,11 +96,15 @@
 
 [【OpenCV-Python】教程：4-10 特征匹配和单应性查找对象_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128294798)
 
+### 第五章 视频分析
+
 [【OpenCV-Python】教程：5-1 背景减法_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128296278)
 
 [【OpenCV-Python】教程：5-2 Meanshift-Camshift (Continuously Adaptive Meanshift) 均值漂移_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128323558)
 
 [【OpenCV-Python】教程：5-3 光流_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128329574)
+
+### 第六章 相机标定
 
 [【OpenCV-Python】教程：6-1 相机标定_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128337301)
 
@@ -95,6 +113,8 @@
 [【OpenCV-Python】教程：6-3 Epipolar Geometry 对极几何_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128349114)
 
 [【OpenCV-Python】教程：6-4 Depth Map from Stereo Images 立体图像的深度图_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128358002)
+
+### 第七章 机器学习
 
 [【OpenCV-Python】教程：7-1 理解 kNN (k-Nearest Neighbour)_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128366435)
 
@@ -112,14 +132,20 @@
 
 [【OpenCV-Python】教程：7-7 PCA_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128438688)
 
+### 第八章 计算图形
+
 [【OpenCV-Python】教程：8-1 图像去噪 Image Denoising_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128443039)
 
 [【OpenCV-Python】教程：8-2 图像修复 Image Inpainting_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128443627)
 
 [【OpenCV-Python】教程：8-3 高动态范围 HDR_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128444691)
 
+### 第九章 目标检测
+
 [【OpenCV-Python】教程：9-1 级联分类器_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128462019)
 
 [【OpenCV-Python】教程：9-2 级联分类器训练_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128462639?spm=1001.2014.3001.5501)
+
+### 第十章 OpenCV Python Bindings
 
 [【OpenCV-Python】教程：10-1 OpenCV Python绑定_黄金旺铺的博客-CSDN博客](https://blog.csdn.net/zhoujinwang/article/details/128462774)
